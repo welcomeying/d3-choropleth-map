@@ -1,0 +1,14 @@
+#tooltip {
+  justify-content: center;
+  position: absolute;
+  text-align: center;
+  padding: 5px 10px 5px 10px;
+  background: rgba(255, 255, 204, 0.9);
+  border-radius: 5px;
+	font-size: 13px;
+}
+.states {
+  fill: none;
+  stroke: #fff;
+  stroke-linejoin: miter;
+}
